@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1598506928 source:e:\projects\orientation simulator\codes\m\main.c
+	"tinyexpr.h"
+	<stdio.h>
+	<math.h>
+
+1598499230 e:\projects\orientation simulator\codes\m\tinyexpr.h
+
+1598499271 source:e:\projects\orientation simulator\codes\m\tinyexpr.c
+	"tinyexpr.h"
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+
